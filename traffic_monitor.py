@@ -9,7 +9,7 @@ from threading import Thread, Lock
 
 # ================= CẤU HÌNH =================
 API_URL = "http://127.0.0.1:8000/api/analyze/"  # Địa chỉ Django API của bạn
-INTERFACE = "lo"  # Tên card mạng (Windows: "Wi-Fi", Linux: "eth0" hoặc "wlan0")
+INTERFACE = "wlan0"  # Tên card mạng (Windows: "Wi-Fi", Linux: "eth0" hoặc "wlan0")
 CAPTURE_WINDOW = 3.0  # Chu kỳ gom gói tin để phân tích (giây)
 # ============================================
 
