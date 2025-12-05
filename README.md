@@ -111,7 +111,7 @@ Clone the repo
 
 ```bash
 
-git clone https://github.com/tahangz/DDoS-Detection-With-AI
+git clone https://github.com/NLam27/Anomoly-Detection-Parse-Version
 cd DDoS-Detection-With-AI
 Backend Setup
 ```
@@ -128,6 +128,14 @@ cd ../dashboard_react
 npm install
 npm start
 ```
+
+```bash
+Note: Thay đổi tên card_interface trong code nếu cần 
+traffic_monitor.py: bắt gói tin thật, tính toán 24 features và gửi về Server
+sudo python traffic_monitor.py
+```
+
+
  ##📈Results
 
 | Metric      | 	Value         |
