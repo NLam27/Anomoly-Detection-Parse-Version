@@ -1,0 +1,28 @@
+{
+  "features": {
+    "Bwd Packet Length Min": 345.67,
+    "Bwd Packet Length Std": 1234.56,
+    "Init Win bytes forward": 45678,
+    "Init Win bytes backward": 23456,
+    "Fwd PSH Flags": 0.12,
+    "Average Packet Size": 2345.67,
+    "PSH Flag Count": 45,
+    "Bwd Packets/s": 67890,
+    "Bwd Header Length": 3456,
+    "Bwd Packet Length Mean": 2345,
+    "Fwd Header Length": 4567,
+    "Packet Length Std": 1234,
+    "Packet Length Mean": 2345,
+    "Avg Bwd Segment Size": 3456,
+    "Fwd Header Length 1": 4567,
+    "min seg size forward": 12,
+    "Bwd Packet Length Max": 7890,
+    "Packet Length Variance": 567890,
+    "Fwd Packet Length Max": 8900,
+    "Fwd Packet Length Mean": 3450,
+    "Flow Bytes/s": 1234567,
+    "Fwd IAT Min": 0.00012,
+    "Total Length of Fwd Packets": 345678,
+    "Flow IAT Mean": 0.00034
+  }
+}
